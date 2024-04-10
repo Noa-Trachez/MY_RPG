@@ -3,6 +3,7 @@
 !*.c
 !*.h
 !Makefile
+!Readme.md
 !*/
 .idea
 cmake-build-debug/
