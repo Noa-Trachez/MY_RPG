@@ -1,16 +1,16 @@
 # MY_RPG
 
-Ce projet clôture la fin de ma premiere année pour la partie graphique.
+Ce projet clôture la fin de ma première année pour la partie graphique.
 
 Il est réalisé en CSFML, applique toutes les compétences que j'ai pu acquérir au sein de mon année.
 
-Ce jeu est un rpg, qui intègre une histoire, un systeme de loot et d'un systeme de combat.
+Ce jeu est un rpg, qui intègre une histoire, un système de loot et d'un système de combat.
 
 ## Résultat
 
-## Jouer au jeu
-
 https://github.com/Noa-Trachez/MY_RPG/assets/74274767/d13f9e0a-5984-42a7-b7f4-78e8100beef4
+
+## Jouer au jeu
 
 ### Prérequis
 ```bash
