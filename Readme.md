@@ -10,6 +10,10 @@ Ce jeu est un rpg, qui intègre une histoire, un systeme de loot et d'un systeme
 
 ## Jouer au jeu
 
+
+https://github.com/Noa-Trachez/MY_RPG/assets/74274767/96305e2d-9f8e-4305-b29e-07537392e7b8
+
+
 ### Prérequis
 ```bash
 - C
