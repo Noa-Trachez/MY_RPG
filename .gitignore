@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*.c
+!*.h
+!Makefile
+!*/
+.idea
+cmake-build-debug/
+.vscode
